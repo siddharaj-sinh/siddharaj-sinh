@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @siddharaj-sinh, working in  PromactInfo
+- 👋 Hi, I’m @siddharaj-sinh, working in  Promact
 
 
 <!---
